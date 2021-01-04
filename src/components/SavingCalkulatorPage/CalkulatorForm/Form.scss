@@ -1,0 +1,19 @@
+.form{
+  .fields {
+    display: flex;
+    width: 100%;
+  }
+  .spans {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+  }
+  #checkboxItem{
+    display: inline-block;
+  }
+  .labelCheckboxItem {
+    margin-top: 15px;
+    margin-left: 5px;
+    display: inline-block;
+  }
+}
